@@ -1,0 +1,21 @@
+{
+  "prefix": "-",
+  "ticketsCategory": "947999186509512704",
+  "ratingsChannel": "ratings",
+  "lastMessageId": "960215238484054036",
+  "promptTimeout": 300000,
+  "colors": {
+    "blue": "#337fd5",
+    "red": "#ff470f,",
+    "green": "#43b581",
+    "purple": "#af4daf",
+    "default": "#af4daf",
+    "invisible": "#2f3136"
+  },
+  "emojis": {
+    "yes": "<:yes:948005974357209138>",
+    "no": "<:no:948005985186906142>",
+    "star": "<:star1:948005994053656586>",
+    "halfstar": "<:halfstar:948006004887531570>"
+  }
+}
